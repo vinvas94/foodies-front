@@ -1,4 +1,4 @@
-Foodies-front
+##Foodies-front
 Foodies-front is an innovative culinary platform developed using React for the frontend and Node.js for the backend. This application is designed for cooking enthusiasts, offering an interactive and user-friendly experience for exploring and sharing culinary recipes.
 
 Features
